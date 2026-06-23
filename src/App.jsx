@@ -1,6 +1,6 @@
 import Navbar from './components/navbar.jsx'
 import './App.css'
-import { div } from 'motion/react-client'
+
 
 function App() {
   return (
@@ -20,3 +20,4 @@ function App() {
 }
 
 export default App
+
