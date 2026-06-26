@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --font-bonheur: "Bonheur Royale", cursive;
+  --font-hanken: "Hanken Grotesk";
+}
