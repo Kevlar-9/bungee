@@ -6,7 +6,7 @@ function navbar() {
 
   return (
 
-    <div className='bg-transparent flex p-4 w-screen items-center justify-between'>
+    <div className='bg-transparent flex p-4 w-screen items-center justify-between border-b border-[#D9D9D9]'>
       <div className='flex items-center gap-1 w-full'>
         <img className="w-15" src={logo} alt="bungee logo" />
         <SplitText
